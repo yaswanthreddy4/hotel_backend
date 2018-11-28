@@ -1,0 +1,94 @@
+[2018-10-24T11:26:37.503] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmQwMDk5NTUxZWZlZDY4NTkyYmQ0MjciLCJpYXQiOjE1NDAzNjA1OTcsImV4cCI6MTU0MDQwMzc5N30.THsIQyX49LwctF8e_4Ggr15pmxyVDuxXAOh6L2-CWvg
+[2018-10-24T11:33:50.778] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-10-25T10:16:16.408] [ERROR] error - Token Not Found !
+[2018-10-25T10:16:20.601] [ERROR] error - Failed To authencate Token :: Invlaid Token {Unautherized User Incedent Reported}
+[2018-10-25T10:16:38.393] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmQwMDk5NTUxZWZlZDY4NTkyYmQ0MjciLCJpYXQiOjE1NDA0NDI3OTgsImV4cCI6MTU0MDQ4NTk5OH0.0dqy8O0YvFa2c2VWspo0LUloa_IKN2yG3cTx0j2LZEI
+[2018-10-25T10:16:55.716] [ERROR] error - Token Not Found !
+[2018-10-25T10:17:00.899] [INFO] users - Valid Token grant access next method trigger
+[2018-10-25T10:19:58.706] [INFO] users - Valid Token grant access next method trigger
+[2018-11-14T16:19:05.177] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:07.654] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:08.481] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:08.604] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:09.279] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:09.423] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:55.099] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:56.026] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:56.176] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:56.731] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:56.899] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:57.082] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:57.255] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:57.407] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:57.573] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:57.955] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:19:59.501] [ERROR] error - Required Feilds are Missing For Log In
+[2018-11-14T16:43:33.989] [ERROR] error - User Not Found! Get Registered
+[2018-11-14T16:45:03.214] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T16:45:09.174] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T16:46:50.910] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T16:46:52.682] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T16:47:38.630] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T16:54:30.042] [ERROR] error - User Not Found! Get Registered
+[2018-11-14T16:56:35.428] [ERROR] error - Invalid Password ! Not Match
+[2018-11-14T17:16:11.177] [ERROR] error - Failed To Register a User, Required Feilds are Missing
+[2018-11-14T17:18:04.128] [ERROR] error - Failed To Register a User, Required Feilds are Missing
+[2018-11-14T17:19:16.357] [ERROR] error - Failed To Register a User, Required Feilds are Missing
+[2018-11-14T17:19:46.283] [ERROR] error - Failed To Register a User, Required Feilds are Missing
+[2018-11-19T07:59:43.133] [ERROR] error - Invalid Password ! Not Match
+[2018-11-19T08:03:21.675] [ERROR] error - Invalid Password ! Not Match
+[2018-11-19T08:04:22.005] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyMjEyZDc4MTMyMjEzY2ZiMGRhYmYiLCJpYXQiOjE1NDI1OTQ4NjIsImV4cCI6MTU0MjYzODA2Mn0.34YWpXQH40CACR5DRY7Uz4CncdeOjYAUf2cMSISTF9o
+[2018-11-19T08:04:52.617] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-19T08:04:55.110] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-19T11:28:23.291] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-19T11:29:06.820] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTEyYTQwZjg0NjJhNGUxZjYxZDQiLCJpYXQiOjE1NDI2MDcxNDYsImV4cCI6MTU0MjY1MDM0Nn0.jf25ngn31SUQbsSXm4Ro4zdz4Wvg18fbXS4VQHEGKlw
+[2018-11-19T11:33:07.238] [ERROR] error - Failed To Register a User, Required Feilds are Missing
+[2018-11-19T11:33:33.098] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-19T11:33:49.438] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDI2MDc0MjksImV4cCI6MTU0MjY1MDYyOX0.15p9YFh2xHOfGED2z7_g2tbMBVADwnH_vGswptSNQrY
+[2018-11-19T12:06:24.900] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDI2MDkzODQsImV4cCI6MTU0MjY1MjU4NH0.4Ev4IFW3B1V-kP7BFKjpesLke7-Kuj5wvUvoxYkvDNo
+[2018-11-19T12:40:31.881] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDI2MTE0MzEsImV4cCI6MTU0MjY1NDYzMX0._r2reOwfA-rmIiowgJWlSApZkUC_GjdiwQPfIO646Ic
+[2018-11-19T12:40:53.241] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyMjEyZDc4MTMyMjEzY2ZiMGRhYmYiLCJpYXQiOjE1NDI2MTE0NTMsImV4cCI6MTU0MjY1NDY1M30.LohROLlDliWkwDimv_KEMBjeBtSnDNaFIxWJYinAUbY
+[2018-11-19T12:41:06.671] [ERROR] error - User Not Found! Get Registered
+[2018-11-19T12:41:23.915] [ERROR] error - Invalid Password ! Not Match
+[2018-11-19T12:41:34.289] [ERROR] error - User Not Found! Get Registered
+[2018-11-19T12:42:05.962] [ERROR] error - Invalid Password ! Not Match
+[2018-11-19T12:42:18.287] [ERROR] error - User Not Found! Get Registered
+[2018-11-19T12:42:32.546] [ERROR] error - User Not Found! Get Registered
+[2018-11-19T12:42:35.605] [ERROR] error - User Not Found! Get Registered
+[2018-11-19T12:42:39.131] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyMjEyZDc4MTMyMjEzY2ZiMGRhYmYiLCJpYXQiOjE1NDI2MTE1NTksImV4cCI6MTU0MjY1NDc1OX0.SA3_3E71oH-N4IIJovwvNsnzhRpmpSb3TYqpc2HfKBw
+[2018-11-22T10:50:53.760] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T10:51:02.592] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T10:51:27.404] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T11:01:47.680] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T11:01:59.650] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T11:02:03.582] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T11:02:10.087] [ERROR] error - Invalid Password ! Not Match
+[2018-11-22T11:02:19.152] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDI4NjQ3MzksImV4cCI6MTU0MjkwNzkzOX0.IcdXxA0A-fnXgwIdbvMq9HyEvOf9zKJeVgCrDd9eeHw
+[2018-11-26T12:17:08.920] [ERROR] error - Invalid Password ! Not Match
+[2018-11-26T12:17:18.876] [ERROR] error - Invalid Password ! Not Match
+[2018-11-26T12:17:22.735] [ERROR] error - Invalid Password ! Not Match
+[2018-11-26T12:17:24.229] [ERROR] error - Invalid Password ! Not Match
+[2018-11-26T12:17:30.080] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMyMTQ4NTAsImV4cCI6MTU0MzI1ODA1MH0.CoAHoo54pHw-qpEi7e1CoFhFNBQufaBS7H_ZzZd4rJc
+[2018-11-26T12:28:13.257] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMyMTU0OTMsImV4cCI6MTU0MzI1ODY5M30.uS8s5MGtyuzl2tkT-t5GF2CU5UfBo2JZXqfvrKohZgc
+[2018-11-26T12:28:27.727] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMyMTU1MDcsImV4cCI6MTU0MzI1ODcwN30.Z6EMglAkBR070c_4xmG1EHZgMe3d6ggAlnKCkKhGSSY
+[2018-11-26T12:52:58.000] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMyMTY5NzcsImV4cCI6MTU0MzI2MDE3N30.0xAtJRAozxpNVn8R3E5pq8gJSLNL2PYnSUYbxPivoP8
+[2018-11-26T13:56:54.752] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMyMjA4MTQsImV4cCI6MTU0MzI2NDAxNH0.BfK8BNjDid1W22I6u1KNcNmf6LEFovmfGV5BVOqB-uQ
+[2018-11-26T16:20:12.839] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZiY2ZlNGUwNmRiZDU2NWIxOGFhMjgiLCJpYXQiOjE1NDMyMjk0MTIsImV4cCI6MTU0MzI3MjYxMn0.5wD4OKBuL3Ns-4FioLMvTGpLoF-ObQzU-KtTDzU1Udc
+[2018-11-26T16:23:59.065] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZiZDBjN2UwNmRiZDU2NWIxOGFhMmIiLCJpYXQiOjE1NDMyMjk2MzksImV4cCI6MTU0MzI3MjgzOX0.51zTcKjMBYg1d2LzuLAl1VuS7NrfijGX-4ahve4L4Zk
+[2018-11-26T16:24:52.344] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZiZDBmY2UwNmRiZDU2NWIxOGFhMmUiLCJpYXQiOjE1NDMyMjk2OTIsImV4cCI6MTU0MzI3Mjg5Mn0.f1yZui8X55TtlUZ5WmACJiATb_Qu9VYhknA7y_oFk8s
+[2018-11-26T16:25:48.701] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-26T16:25:51.498] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-26T16:25:54.814] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-26T16:25:58.673] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-26T16:26:16.020] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZiZDE1MGUwNmRiZDU2NWIxOGFhMzUiLCJpYXQiOjE1NDMyMjk3NzYsImV4cCI6MTU0MzI3Mjk3Nn0.9qp9Nrvttbt5cCgmgFsV9HCD8m14J5ESgIfm_Ke6blI
+[2018-11-26T16:34:30.340] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZiZDMzZTljZTI5MjcyYWRlZWNjZjkiLCJpYXQiOjE1NDMyMzAyNzAsImV4cCI6MTU0MzI3MzQ3MH0.1mmNK1jyv2q_9IKdkW7gk6juNqK-kjmGqcg2GSY9DUQ
+[2018-11-26T16:34:30.430] [ERROR] error - Failed to Register a User ..Internal Server Error
+[2018-11-27T11:54:56.835] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZjZTMzOGNjMDc1YTI0OTE3MzJjZjQiLCJpYXQiOjE1NDMyOTk4OTYsImV4cCI6MTU0MzM0MzA5Nn0.mVX4dNFUaTEKLHfnKAUAFVgG7dq9mS_bEwfxjakoNhI
+[2018-11-27T12:08:21.350] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZjZTMzOGNjMDc1YTI0OTE3MzJjZjQiLCJpYXQiOjE1NDMzMDA3MDEsImV4cCI6MTU0MzM0MzkwMX0.XxIA_7cXJxhcbtRx9VUF8iOpkWvgHbekWO8xinLi_5o
+[2018-11-27T12:08:53.681] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMzMDA3MzMsImV4cCI6MTU0MzM0MzkzM30.95NJ074qJiLNSRl57woEI1DQaMkj3T73zERB0uioIig
+[2018-11-27T12:09:52.083] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMzMDA3OTIsImV4cCI6MTU0MzM0Mzk5Mn0.r5dhlyEs7d7ayo6jc4rur4UH8xfKaAipmL31epm1G2M
+[2018-11-27T12:10:13.503] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZjZTMzOGNjMDc1YTI0OTE3MzJjZjQiLCJpYXQiOjE1NDMzMDA4MTMsImV4cCI6MTU0MzM0NDAxM30.MujQIeZpgalVA7lL40qsjfKAQrHM0A9l6-awz9oRON4
+[2018-11-27T12:16:23.581] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyMjEyZDc4MTMyMjEzY2ZiMGRhYmYiLCJpYXQiOjE1NDMzMDExODMsImV4cCI6MTU0MzM0NDM4M30.NWGmvEtJ3HTKmdO6mtpZduqO5T1zBEO1yx90vrxnDrg
+[2018-11-27T12:16:37.618] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZjZTMzOGNjMDc1YTI0OTE3MzJjZjQiLCJpYXQiOjE1NDMzMDExOTcsImV4cCI6MTU0MzM0NDM5N30.d_7ILh0cW0NLxKDG7rACq8h1rVzVCLNe1RPs5irPj3Y
+[2018-11-27T12:17:42.928] [INFO] users - User is Registered SuccessFully with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmZjZTg4ZTIzYTg4ZDI4Y2Y3NTJiZTAiLCJpYXQiOjE1NDMzMDEyNjIsImV4cCI6MTU0MzM0NDQ2Mn0.IA-ZxyrRAieIzVGZlpIYDeAaK8pjl0AQnn-XNmQdpm8
+[2018-11-27T16:35:54.651] [INFO] users - Login SucessFull ! with Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmYyNTI0NTQwZjg0NjJhNGUxZjYxZGEiLCJpYXQiOjE1NDMzMTY3NTQsImV4cCI6MTU0MzM1OTk1NH0.8W-to9_HcoR8oTGO3WDW_PAK0BVpB8d5iBwHM9ZqgaI
