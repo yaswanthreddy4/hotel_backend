@@ -6,6 +6,8 @@ const config = require('./app/config/config');
 const body_parser = require('body-parser');
 const log4js = require('log4js');
 const fs = require('fs');
+// var passport = require('passport');
+// var session = require('express-session');
 
 let app = express();
 
@@ -43,6 +45,14 @@ app.use(function(req, res, next) {
 
 app.use('/', hotel_route);
 app.use('/api', user_route);
+
+// app.use(session({
+//     secret: 's3cr3t',
+//     resave: true,
+//     saveUninitialized: true
+// }));
+// app.use(passport.initialize());
+// app.use(passport.session());
 
 app.listen(config.port, config.host, function(req, res, next) {
     console.log(`server is running on port : ${config.port}`);

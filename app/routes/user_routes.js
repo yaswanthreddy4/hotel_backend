@@ -3,6 +3,7 @@ const router = express.Router();
 const user_controller = require('../controllers/user.controller');
 const auth_controller = require('../controllers/auth.controller');
 const tokenValidator_controller = require('../controllers/tokenValidator.controller');
+const passport = require('passport')
 
 router
     .route('/user')
@@ -18,6 +19,18 @@ router
 // router
 //     .route('/login')
 //     .post(auth_controller.login)
+// router
+//     .route('/auth/facebook',
+//         passport.authenticate('facebook'));
+// router
+//     .route('/auth/facebook/callback',
+//         passport.authenticate('facebook', {
+//             failureRedirect: '/login'
+//         }),
+//         function(req, res) {
+//             // Successful authentication, redirect home.
+//             res.redirect('/hotels');
+//         });
 
 router
     .route('/user/registration')
